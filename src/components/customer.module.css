@@ -1,0 +1,14 @@
+.customer {
+  font-size: 2.4rem;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: auto;
+  width: 30%;
+}
+li {
+  border-bottom: 1px dotted olive;
+  line-height: 2rem;
+  font-size: 1.4rem;
+}
