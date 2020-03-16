@@ -31,6 +31,7 @@ const Customer = () => {
           <li key={customer.id}>
             {customer.firstName}
             {customer.lastName}
+            {customer.src}
           </li>
         ))}
       </ul>
